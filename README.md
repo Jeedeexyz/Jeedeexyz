@@ -19,6 +19,8 @@ Here are the technologies I'm actively working on and enhancing:
 ## Contribution Stats
 Even though my private client work doesn’t show here, my contribution graph reflects the consistency and effort I put into development every day:
 ![GitHub Contribution Graph](https://github.com/Jeedeexyz)
+<!-- Actual graph embedding -->
+![Jeedeexyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeedeexyz&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhulamDastagir&layout=compact&theme=radical)
