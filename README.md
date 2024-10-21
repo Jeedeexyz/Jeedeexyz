@@ -27,6 +27,6 @@ Here are the technologies I'm actively working on and enhancing:
 ![Joke](https://readme-jokes.vercel.app/api)
 
 ## How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/ghulam-dastagir-919784216/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/ghulam-dastagir-919784216/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333?style=flat&logo=gmail)](mailto:alik36444@gmail.com)
 
