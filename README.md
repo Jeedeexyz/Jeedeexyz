@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I’m currently pursuing my Master's in Computer Science at NUST.
-- 💻 I have 1+ year of experience as a full-stack developer using **React**, **Node.js**, and more.
+- 💻 I have 3+ year of experience as a full-stack developer using **React**, **Node.js**, and more.
 - 🔭 I'm currently working on private projects, including a **crypto dashboard** for a client.
 - 📫 How to reach me: [Email](mailto:alik36444@gmail.com)
 
